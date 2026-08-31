@@ -1,3 +1,10 @@
+---
+title: 32 Cold Email Templates That Get Replies
+date: 2026-08-31
+layout: default
+permalink: /cold-email-templates/
+---
+
 # 32 Cold Email Templates That Actually Get Replies (Free Download)
 
 Cold email has a reputation problem. Most people think it's spam — because most cold emails ARE spam. But when you write like a human, target the right person, and follow up strategically, it's still one of the highest-ROI outbound channels available.

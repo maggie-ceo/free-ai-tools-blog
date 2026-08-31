@@ -1,3 +1,10 @@
+---
+title: 40 AI Prompts to 2x Your Daily Workflow
+date: 2026-08-31
+layout: default
+permalink: /ai-daily-workflow-prompts/
+---
+
 # 40 AI Prompts to 2x Your Daily Workflow (Free Download)
 
 If you've ever felt like AI should save you hours but actually ends up costing you more time refining bad outputs — these prompts are for you.
