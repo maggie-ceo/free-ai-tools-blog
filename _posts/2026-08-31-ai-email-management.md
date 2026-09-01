@@ -32,11 +32,9 @@ Paste your inbox into this prompt:
 
 > "Here is my inbox data for the last month (sender domains, subject patterns, response rates). Identify: top time-wasters, best response patterns, and 1 rule I should add to my email policy."
 
----
 
 For a full daily workflow prompt system covering morning scan, planning, execution, and review, see: [40 AI Prompts to 2x Your Daily Workflow](/ai-daily-workflow-prompts/)
 
----
 
 *Keywords: AI email management, email automation, AI productivity, inbox management, email triage, AI assistant, ChatGPT email prompts, email workflow*
 
@@ -45,4 +43,3 @@ For a full daily workflow prompt system covering morning scan, planning, executi
 - [Related: Ai Daily Workflow Prompts](/ai-daily-workflow-prompts/)
 - [Related: Automate Sales Workflow](/automate-sales-workflow/)
 - [Related: Best Ai Tools Small Business](/best-ai-tools-small-business/)
-
