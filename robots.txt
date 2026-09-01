@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://maggie-ceo.github.io/free-ai-tools-blog/sitemap.xml
