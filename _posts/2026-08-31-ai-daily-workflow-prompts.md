@@ -68,3 +68,9 @@ Copy-paste ready. Works in ChatGPT, Claude, or any LLM with similar instruction-
 ---
 
 *Keywords: AI prompts, ChatGPT prompts, Claude prompts, productivity prompts, workflow automation, AI productivity, prompt engineering, daily workflow, AI assistant, productivity system*
+
+
+## Related
+- [Related: Free Chatgpt Prompts](/free-chatgpt-prompts/)
+- [Related: Ai Productivity Hacks Founders](/ai-productivity-hacks-founders/)
+- [Related: Ai Email Management](/ai-email-management/)

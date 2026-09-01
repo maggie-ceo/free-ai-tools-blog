@@ -48,3 +48,9 @@ For ready-to-use templates, see: [32 Cold Email Templates That Get Replies](/col
 ---
 
 *Keywords: sales outreach, B2B sales, outbound sales, sales strategies 2026, cold email outreach, lead generation, SDR playbook, sales cadence*
+
+
+## Related
+- [Related: Cold Email Templates](/cold-email-templates/)
+- [Related: Cold Email That Gets Replies](/cold-email-that-gets-replies/)
+- [Related: Automate Sales Workflow](/automate-sales-workflow/)

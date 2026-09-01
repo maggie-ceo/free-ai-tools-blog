@@ -51,3 +51,9 @@ For a complete set of daily workflow prompts (morning scan, inbox triage, meetin
 ---
 
 *Keywords: ChatGPT prompts, free ChatGPT prompts, AI prompts, prompt engineering, ChatGPT workflow, AI assistant, productivity prompts, AI productivity*
+
+
+## Related
+- [Related: Ai Daily Workflow Prompts](/ai-daily-workflow-prompts/)
+- [Related: Ai Productivity Hacks Founders](/ai-productivity-hacks-founders/)
+- [Related: Best Ai Tools Small Business](/best-ai-tools-small-business/)

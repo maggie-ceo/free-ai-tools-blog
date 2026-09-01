@@ -101,3 +101,9 @@ Copy-paste ready. Use in Gmail, Outreach, Lemlist, or any cold email tool.
 ---
 
 *Keywords: cold email templates, cold email outreach, B2B sales emails, outbound sales, email templates, lead generation, SDR playbook, cold email subject lines, follow-up emails, sales outreach*
+
+
+## Related
+- [Related: Cold Email That Gets Replies](/cold-email-that-gets-replies/)
+- [Related: Sales Outreach Strategies 2026](/sales-outreach-strategies-2026/)
+- [Related: Automate Sales Workflow](/automate-sales-workflow/)

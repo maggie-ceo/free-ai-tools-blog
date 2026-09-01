@@ -72,3 +72,9 @@ The framework above is part of a larger playbook with 32 ready-to-use templates,
 ---
 
 *Keywords: cold email, cold email templates, cold email outreach, B2B sales emails, outbound sales, email templates, lead generation, SDR playbook, cold email subject lines, follow-up emails, sales outreach*
+
+
+## Related
+- [Related: Cold Email Templates](/cold-email-templates/)
+- [Related: Sales Outreach Strategies 2026](/sales-outreach-strategies-2026/)
+- [Related: Automate Sales Workflow](/automate-sales-workflow/)

@@ -39,3 +39,9 @@ For a full daily workflow prompt system covering morning scan, planning, executi
 ---
 
 *Keywords: AI email management, email automation, AI productivity, inbox management, email triage, AI assistant, ChatGPT email prompts, email workflow*
+
+
+## Related
+- [Related: Ai Daily Workflow Prompts](/ai-daily-workflow-prompts/)
+- [Related: Automate Sales Workflow](/automate-sales-workflow/)
+- [Related: Best Ai Tools Small Business](/best-ai-tools-small-business/)
