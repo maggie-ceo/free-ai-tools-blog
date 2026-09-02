@@ -1,6 +1,6 @@
 ---
 title: AI for Writers — Beat Writer's Block, Write Faster
-date: 2026-09-03
+date: 2026-09-02
 layout: default
 permalink: /ai-for-writers/
 ---

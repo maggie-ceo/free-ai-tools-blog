@@ -1,6 +1,6 @@
 ---
 title: AI for Coaches — Scale Your Practice Without Burning Out
-date: 2026-09-03
+date: 2026-09-02
 layout: default
 permalink: /ai-for-coaches/
 ---

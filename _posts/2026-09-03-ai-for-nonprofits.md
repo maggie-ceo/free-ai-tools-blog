@@ -1,6 +1,6 @@
 ---
 title: AI for Nonprofits — Do More With Less
-date: 2026-09-03
+date: 2026-09-02
 layout: default
 permalink: /ai-for-nonprofits/
 ---
